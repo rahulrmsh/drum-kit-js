@@ -1,4 +1,4 @@
-# Drum Kit
+# Drummer
 
 A basic JavaScript Web Page to play different Drum Rolls.
 
